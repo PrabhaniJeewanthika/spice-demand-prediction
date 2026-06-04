@@ -1,0 +1,64 @@
+{
+  "hash": "4e4eecea",
+  "configHash": "2eae5d81",
+  "lockfileHash": "5660bd63",
+  "browserHash": "de1649d8",
+  "optimized": {
+    "@chakra-ui/react": {
+      "src": "../../node_modules/@chakra-ui/react/dist/index.mjs",
+      "file": "@chakra-ui_react.js",
+      "fileHash": "2d53d83c",
+      "needsInterop": false
+    },
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "26559f78",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "f2519253",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "c2ce7786",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "cdf943f3",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "0b70057f",
+      "needsInterop": true
+    },
+    "recharts": {
+      "src": "../../node_modules/recharts/es6/index.js",
+      "file": "recharts.js",
+      "fileHash": "d030aa86",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-_TIqcEvS": {
+      "file": "chunk-_TIqcEvS.js",
+      "isDynamicEntry": false
+    },
+    "react-dom-C7gOqOEm": {
+      "file": "react-dom-C7gOqOEm.js",
+      "isDynamicEntry": false
+    },
+    "tiny-invariant-CZcRyjHg": {
+      "file": "tiny-invariant-CZcRyjHg.js",
+      "isDynamicEntry": false
+    }
+  }
+}
